@@ -9,6 +9,20 @@
 
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
+	<link rel="canonical" href="{{ site.canonical_url }}" />
+
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ site.page_title }}" />
+	<meta name="og:site_name" content="{{ site.page_title }}" />
+	<meta property="og:description" content="{{ site.app_description }}" />
+	<meta property="og:image" content="{{ site.og_image }}" />
+	<meta property="og:url" content="{{ site.canonical_url }}" />
+
+	<meta name="twitter:creator" content="@biz84" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="{{ site.og_image }}" />
+	<meta name="twitter:url" content="https://twitter.com/biz84" />
+
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
 		<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
