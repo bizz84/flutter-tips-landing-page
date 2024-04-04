@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Flutter Tips                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6480457752                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -42,19 +42,19 @@ features                                  :
     
   - title                                 : Search Feature
     description                           : Search existing tips or choose a random tip.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : search
 
   - title                                 : Offline mode
     description                           : Downloaded tips are saved locally so you can access them even when you don't have a network connection.
-    fontawesome_icon_name                 : wifi-slash
+    fontawesome_icon_name                 : wifi
 
   - title                                 : Image Viewer
     description                           : Tap, pinch and zoom on any image for better ease of use.
-    fontawesome_icon_name                 : magnifying-glass-plus
+    fontawesome_icon_name                 : search-plus
 
   - title                                 : Light/dark mode
     description                           : The app automatically adjusts to your system theme.
-    fontawesome_icon_name                 : circle-half-stroke
+    fontawesome_icon_name                 : moon
   
 
   - title                                 : Additional Resources
