@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Andrea Bizzotto
 your_link                                 : https://codewithandrea.com                     
-your_city                                 : London                    
+your_city                                 :                     
 email_address                             : contact@codewithandrea.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -72,7 +72,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
