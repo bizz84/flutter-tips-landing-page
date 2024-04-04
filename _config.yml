@@ -42,19 +42,19 @@ features                                  :
     
   - title                                 : Search Feature
     description                           : Search existing tips or choose a random tip.
-    fontawesome_icon_name                 : magnifyingglass
+    fontawesome_icon_name                 : magnifying-glass
 
   - title                                 : Offline mode
     description                           : Downloaded tips are saved locally so you can access them even when you don't have a network connection.
-    fontawesome_icon_name                 : wifislash
+    fontawesome_icon_name                 : wifi-slash
 
   - title                                 : Image Viewer
     description                           : Tap, pinch and zoom on any image for better ease of use.
-    fontawesome_icon_name                 : magnifyingglassplus
+    fontawesome_icon_name                 : magnifying-glass-plus
 
   - title                                 : Light/dark mode
     description                           : The app automatically adjusts to your system theme.
-    fontawesome_icon_name                 : circlehalfstroke
+    fontawesome_icon_name                 : circle-half-stroke
   
 
   - title                                 : Additional Resources
