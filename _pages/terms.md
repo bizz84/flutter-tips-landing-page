@@ -4,6 +4,8 @@ title: Terms of Use
 include_in_header: false
 ---
 
+# Terms of Use
+
 Last updated: April 04, 2024
 
 Please read these terms and conditions carefully before using Our Service.
