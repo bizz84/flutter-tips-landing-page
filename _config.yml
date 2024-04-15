@@ -54,9 +54,8 @@ features                                  :
     fontawesome_icon_name                 : search-plus
 
   - title                                 : Light/dark mode
-    description                           : The app automatically adjusts to your system theme.
+    description                           : Choose your favorite theme or let the app automatically adjusts to the system theme.
     fontawesome_icon_name                 : moon
-  
 
   - title                                 : Additional Resources
     description                           : Get access to additional resources, articles and videos about Flutter, right from the app.
