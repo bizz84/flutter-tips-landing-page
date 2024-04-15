@@ -6,7 +6,7 @@ include_in_header: false
 
 # Changelog
 
-## Version 0.1.0
+## Version 1.0.0
 
 This is the first release of the app.
 
