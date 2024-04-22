@@ -6,6 +6,16 @@ include_in_header: false
 
 # Changelog
 
+## Version 1.0.4
+
+- About page has been renamed to Settings page
+- Show a confirmation dialog before clearing the cache
+- Improved anonymous data collection
+
+## 1.0.3
+
+- Fixed app upgrade logic
+
 ## Version 1.0.2
 
 - Double tap to toggle zoom on the image viewer
