@@ -6,7 +6,110 @@ include_in_header: false
 
 # Changelog
 
-## Version 1.0.4
+# 1.1.20
+
+- Improved the force update logic
+
+# 1.1.19
+
+- Updated all packages and dependencies
+
+# 1.1.18
+
+- Handle 401 Unauthorized errors
+- More improvements for the force update logic
+- Update to Flutter 3.24 and the latest packages
+
+# 1.1.17
+
+- Improved the force upgrade logic
+
+# 1.1.16
+
+- Fix for the pull-to-refresh UI
+
+# 1.1.15
+
+- Add a little easter egg - see if you can discover it 😉
+
+# 1.1.14
+
+- Add refresh indicator to individual tips
+- Improved analytics code
+
+# 1.1.13
+
+- Add Posthog for analytics tracking
+- Track screen view analytics
+- Improved logging
+
+## 1.1.12
+
+- Cleanup analytics
+- Targeting Android 14 (API level 34)
+
+## 1.1.11
+
+- Analytics improvements
+- Updated packages
+- Updated minimum iOS deployment version to 13.0
+
+## 1.1.10
+
+- Improve app startup logic
+- Fix a scrolling bug on Flutter web
+
+## 1.1.9
+
+- Fix critical bug that was preventing new tips from loading
+
+## 1.1.8
+
+- Replace Crashlytics with Sentry on iOS, Android builds
+- Fixed zone mismatch error on Flutter web
+- Fixed "feedback" does not work with Flutter HTML renderer error
+
+## 1.1.7
+
+- Increased text sizes and paddings
+- Use kIsWeb and defaultTargetPlatform for platform checks
+- Improved error monitoring setup
+- Only show feedback button on non-web builds
+- Upload source maps to Sentry for web builds
+- Don't report exceptions from feedback package
+
+## 1.1.6
+
+- Add Flutter web support
+- Updated the launch screen
+
+## 1.1.5
+
+- Updated the launch screen
+
+## 1.1.4
+
+- Updated to the latest packages
+
+## 1.1.3
+
+- Changed the app icon
+
+## 1.1.2
+
+- Updated to the latest packages
+
+## 1.1.1
+
+- Made the app work better in offline mode
+
+## 1.1.0
+
+- Added favorites filter to the search screen
+- Added empty placeholder for the search screen
+- Improved app rating prompt logic
+
+## 1.0.4
 
 - About page has been renamed to Settings page
 - Show a confirmation dialog before clearing the cache
@@ -16,18 +119,18 @@ include_in_header: false
 
 - Fixed app upgrade logic
 
-## Version 1.0.2
+## 1.0.2
 
 - Double tap to toggle zoom on the image viewer
 - Improved accessibility labels and tooltips
 - Other minor tweaks
 
-## Version 1.0.1
+## 1.0.1
 
 - Added theme selector to about page
 - Use bigger font for H3 markdown headings
 
-## Version 1.0.0
+## 1.0.0
 
 This is the first release of the app, which offers these features:
 
