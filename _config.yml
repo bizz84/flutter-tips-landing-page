@@ -37,8 +37,8 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Over 180 Tips
-    description                           : Browse over 180 tips and tricks about Dart and Flutter app development.
+  - title                                 : Over 200 Tips
+    description                           : Browse over 200 tips and tricks about Dart and Flutter app development.
     fontawesome_icon_name                 : hashtag
     
   - title                                 : Search Feature
