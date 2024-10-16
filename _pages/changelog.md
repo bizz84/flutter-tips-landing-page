@@ -6,6 +6,28 @@ include_in_header: false
 
 # Changelog
 
+# 1.2.4
+
+- Improved analytics
+
+# 1.2.3
+
+- Improved image preview
+- Updated screenshots
+
+# 1.2.2
+
+- Fix for image preview transition when the image could not be loaded
+- Add GitHub workflow for iOS
+  
+# 1.2.1
+
+- More error handling tweaks
+
+# 1.2.0
+
+- More robust error handling
+
 # 1.1.20
 
 - Improved the force update logic
