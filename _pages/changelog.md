@@ -6,6 +6,99 @@ include_in_header: false
 
 # Changelog
 
+# 1.6.0
+
+- Add URL-based navigation on Flutter web
+- Updated Flutter web splash screen
+- Error reporting improvements
+
+# 1.5.0
+
+- Update to the latest packages
+- Updated splash screen on Android
+
+# 1.4.9
+
+- Fixed issue with force update prompt timing during app startup
+- Update to flex_color_scheme 8.2.0
+
+# 1.4.8
+
+- Update to the latest packages
+- Disable Impeller on Android due to a bug that causes flickering on gif images
+
+# 1.4.7
+
+- Replace Crashlytics with Sentry for error reporting
+- Update to the latest packages
+
+# 1.4.6
+
+- Replace Sentry with Crashlytics for error reporting (for evaluation purposes)
+
+# 1.4.5
+
+- Fixed a bug in the initialization logic
+
+# 1.4.4
+
+- Add A/B testing support
+- Update to the latest packages
+
+# 1.4.3
+
+- Update to the latest packages
+
+# 1.4.2
+
+- New keyboard shortcuts: left/right to navigate between tips, space to like a tip
+- Enabled "Mac (Designed for iPad)" as a supported device
+
+# 1.4.1
+
+- Full iPad support with content and navigation panes on the same screen
+- Updated to the latest packages
+- Other small improvements
+
+# 1.4.0
+
+- Added basic iPad support
+- Use tabular figures for tip numbers in the image preview page
+
+# 1.3.2
+
+- Fixed a bug with the image preview transition
+
+# 1.3.1
+
+- Update to the latest packages
+- Use tabular figures for tip numbers
+- Small bug fixes
+
+# 1.3.0
+
+- Updated to the latest packages
+- Small bug fixes
+- New Screenshots
+
+# 1.2.8
+
+- Update Privacy Manifest
+- Update theming logic
+
+# 1.2.7
+
+- Updated to the latest packages
+- Improved Firebase initialization code
+
+# 1.2.6 
+
+- Fixed a big in the Markdown parsing logic
+
+# 1.2.5
+
+- Add option to show licenses in the settings
+
 # 1.2.4
 
 - Improved analytics
