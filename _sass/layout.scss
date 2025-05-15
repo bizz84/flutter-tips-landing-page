@@ -335,9 +335,21 @@ nav > ul li a:active {
 
 .downloadButtonsContainer {
 	display: inline-block;
-	margin-top: 42px;
+	margin-top: 32px;
+	gap: 20px;
+	display: flex;
+	flex-wrap: wrap;
 	filter: $drop-shadow;
 }
+
+.playStore {
+	height: 75px;
+}
+
+.appStore {
+	height: 75px;
+}
+
 
 @media only screen and (max-width: 992px) {
 
@@ -347,32 +359,12 @@ nav > ul li a:active {
 	
 } 
 
-.playStore {
-	height: 75px;
-	margin-right: 24px;
-}
+@media only screen and (max-width: 460px) {
 
-@media only screen and (max-width: 992px) {
-
-	.playStore {
-		margin-right: 24px;
-		margin-bottom: 0px;
-	}
-	
+	.downloadButtonsContainer {
+		justify-content: center;
+	}	
 } 
-
-@media only screen and (max-width: 528px) {
-
-	.playStore {
-		margin-right: 0px;
-		margin-bottom: 24px;
-	}
-	
-} 
-
-.appStore {
-	height: 75px;
-}
 
 
 

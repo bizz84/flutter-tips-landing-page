@@ -55,6 +55,9 @@
                                 <a class="playStoreLink plausible-event-name=Download+Play+Store" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
                             {% endif %}
                             <a class="appStoreLink plausible-event-name=Download+App+Store" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
+                            {% if site.web_link %}
+                                <a class="webLink plausible-event-name=Open+Web" href="{{site.web_link}}"><img class="appStore" src="assets/web.png"></a>
+                            {% endif %}
                         </div>
                     </div>
                     {% include features.html %}
